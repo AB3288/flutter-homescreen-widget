@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Widget.Android.AppWidget.Container" parent="android:Widget">
+        <item name="android:padding">8dp</item>
+    </style>
+    <style name="Widget.Android.AppWidget.InnerView" parent="android:Widget">
+        <item name="android:padding">4dp</item>
+    </style>
+    <style name="Theme.Android.AppWidgetContainer" parent="Theme.AppCompat">
+    </style>
+</resources>
