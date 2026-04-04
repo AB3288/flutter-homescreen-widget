@@ -96,7 +96,7 @@ flutter run
 ## 🧩 Comment tester le widget
 
 1. Lancer l'app avec `flutter run`
-2. Sur Genymotion, faire un **appui long** sur l'écran d'accueil
+2. Sur Genymotion ou Android studio, faire un **appui long** sur l'écran d'accueil
 3. Sélectionner **Widgets** → chercher **homescreen_widgets**
 4. Ajouter le widget à l'écran d'accueil
 5. Ouvrir un article dans l'app → appuyer sur **"Update Homescreen"**
