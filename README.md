@@ -1,4 +1,4 @@
-# 📱 Flutter Home Screen Widget
+#  Flutter Home Screen Widget
 
 Un projet Flutter démontrant comment créer des **widgets d'écran d'accueil** pour Android, basé sur le codelab officiel Google.
 
@@ -9,23 +9,23 @@ Un projet Flutter démontrant comment créer des **widgets d'écran d'accueil** 
 
 ---
 
-## 📸 Aperçu
+##  Aperçu
 
 L'application affiche une liste d'articles d'actualité. Un widget d'écran d'accueil affiche le titre, la description et un graphique de l'article sélectionné.
 
 ---
 
-## ✅ Fonctionnalités
+##  Fonctionnalités
 
-- 📰 Liste d'articles d'actualité
-- 🏠 Widget d'écran d'accueil Android
-- 🔄 Mise à jour du widget depuis l'application Flutter
-- 📊 Affichage d'un graphique Flutter comme image dans le widget
-- 💾 Partage de données via `SharedPreferences` (package `home_widget`)
+-  Liste d'articles d'actualité
+-  Widget d'écran d'accueil Android
+-  Mise à jour du widget depuis l'application Flutter
+-  Affichage d'un graphique Flutter comme image dans le widget
+-  Partage de données via `SharedPreferences` (package `home_widget`)
 
 ---
 
-## 🛠️ Technologies utilisées
+##  Technologies utilisées
 
 | Technologie | Usage |
 |-------------|-------|
@@ -38,7 +38,7 @@ L'application affiche une liste d'articles d'actualité. Un widget d'écran d'ac
 
 ---
 
-## 📁 Structure du projet
+##  Structure du projet
 
 ```
 step_03/
@@ -59,7 +59,7 @@ step_03/
 
 ---
 
-## 🚀 Installation
+##  Installation
 
 ### Prérequis
 
@@ -83,7 +83,7 @@ flutter run
 
 ---
 
-## 📖 Étapes du codelab réalisées
+##  Étapes du codelab réalisées
 
 | Étape | Description | Statut |
 |-------|-------------|--------|
@@ -93,18 +93,18 @@ flutter run
 
 ---
 
-## 🧩 Comment tester le widget
+##  Comment tester le widget
 
 1. Lancer l'app avec `flutter run`
 2. Sur Genymotion ou Android studio, faire un **appui long** sur l'écran d'accueil
 3. Sélectionner **Widgets** → chercher **homescreen_widgets**
 4. Ajouter le widget à l'écran d'accueil
 5. Ouvrir un article dans l'app → appuyer sur **"Update Homescreen"**
-6. Le widget affiche le titre, la description et le graphique ! 🎉
+6. Le widget affiche le titre, la description et le graphique ! 
 
 ---
 
-## 🏆 Badge Google Developer
+##  Badge Google Developer
 
 Ce projet a été réalisé dans le cadre du codelab officiel Google :
 
@@ -114,7 +114,7 @@ Ce projet a été réalisé dans le cadre du codelab officiel Google :
 
 ---
 
-## 📚 Ressources
+##  Ressources
 
 - [Documentation Flutter](https://docs.flutter.dev)
 - [Package home_widget](https://pub.dev/packages/home_widget)
@@ -123,7 +123,7 @@ Ce projet a été réalisé dans le cadre du codelab officiel Google :
 
 ---
 
-## 👨‍💻 Auteur
+##  Auteur
 
 **Abdallahi**
 - GitHub: [@AB3288](https://github.com/AB3288)
