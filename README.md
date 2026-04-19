@@ -127,7 +127,7 @@ Ce projet a été réalisé dans le cadre du codelab officiel Google :
 
 **Abdallahi**
 - GitHub: [@AB3288](https://github.com/AB3288)
-- Google Developer Profile: [Mon profil](https://developers.google.com/profile)
+- Google Developer Profile: [Mon profil]([https://developers.google.com/profile](https://developers.google.com/profile/u/115985114902930184863?hl=fr))
 
 ---
 
